@@ -5,7 +5,7 @@
 * 🧐 You can learn more about my experiences, projects, and awards from  [canberkdurmus.com](https://www.canberkdurmus.com)
 * ✍️ I’m sharing Raspberry Pi projects and guides here: [singleboardblog.com](https://www.singleboardblog.com)
 * 🔭 I use Python, QT, OpenCV, Flask, NodeJS, SQL for work. I do;
-    * Real-time thermal imaging
+    * Real-time thermal imaging and analysis
     * High-level hardware wrappers for Python
     * Multi-threading for communications and network operations
     * Automated quality assurance and hardware testing applications
