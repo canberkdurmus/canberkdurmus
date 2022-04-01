@@ -1,6 +1,6 @@
 ### Hello, I am Can Berk! 👋
 
-* 👔 I’m currently working as a software engineer at Advantics in France.
+* 👔 I’m currently working as a software engineer at Advantics EURL in France.
 * ⚡ I like hackathons and working on UAV projects. I have ten awards from various competitions.
 * 🧐 You can learn more about my experiences, projects, and awards from  [canberkdurmus.com](https://www.canberkdurmus.com)
 * ✍️ I’m sharing Raspberry Pi projects and guides here: [singleboardblog.com](https://www.singleboardblog.com)
